@@ -1,23 +1,19 @@
 ---
-title: "ここにページのタイトル"
+title: "nemunemubo-i 
 author: default
-permalink: /
+permalink:
 --
 ---
 
 以下テンプレート
 
-# 見出し1
-## 見出し2
-### 見出し3
-#### 見出し4
-##### 見出し5
-###### 見出し6
-
+#ねむねむぼーいとは
+たくみくんとひなりさんの二人で活動しているカップルYouTuberのことだ
+最近は自分たちの服のブランドを立ち上げました。名前はanother ordinary da
 改行は、行末に半角スペースを2個いれる
 次の行
 
-[リンク](https://www.google.co.jp/)
+【リンク】（https://www.google.co.jp/）
 
 **太字**
 
