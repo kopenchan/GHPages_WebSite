@@ -2,13 +2,7 @@
 title: "ここにページのタイトル"
 author: default
 permalink: /
----
-
-
-
-
-
-
+--
 ---
 
 以下テンプレート
