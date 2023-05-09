@@ -9,8 +9,10 @@ permalink:
 
 #ねむねむぼーいとは
 たくみくんとひなりさんの二人で活動しているカップルYouTuberのことだ
-最近は自分たちの服のブランドを立ち上げました。名前はanother ordinary da
-改行は、行末に半角スペースを2個いれる
+最近は自分たちの服のブランドを立ち上げました
+その名前はAnother Ordinary Day
+女性を中心とした
+を2個いれる
 次の行
 
 【リンク】（https://www.google.co.jp/）
